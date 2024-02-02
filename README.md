@@ -100,5 +100,7 @@ Remote builder fly-builder-snowy-silence-8109 ready
 ```
 $ fly deploy
 ```
+### https://jelly-json-server.fly.dev/
+
 ### FROM
 - https://www.npmjs.com/package/json-server
