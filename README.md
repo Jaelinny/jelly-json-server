@@ -23,6 +23,7 @@ http://localhost:3000/comments
 http://localhost:3000/profile
 ```
 ### Launch
+- ⚠️ Do you want to tweak these settings before proceeding? Yes
 ```
 flyctl launch
 Scanning source code
